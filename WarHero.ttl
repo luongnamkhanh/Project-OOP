@@ -1,0 +1,204 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Ngo_Trong_Anh  rdfs:label  "Ngo Trong Anh"@en .
+
+dbr:Trần_Ngọc_Liễng  rdfs:label  "Trần Ngọc Liễng"@en .
+
+dbr:Madame_Nguyễn_Cao_Kỳ
+        rdfs:label  "Madame Nguyễn Cao Kỳ"@en .
+
+dbr:Nguyễn_Xuân_Oánh  rdfs:label  "Nguyễn Xuân Oánh"@en .
+
+dbr:Nguyen_Huy_Dau  rdfs:label  "Nguyen Huy Dau"@en .
+
+dbr:Linh_Quang_Viên  rdfs:label  "Linh Quang Viên"@en .
+
+dbr:Đỗ_Quang_Giai  rdfs:label  "Đỗ Quang Giai"@en .
+
+dbr:Trần_Đại_Nghĩa  rdfs:label  "Trần Đại Nghĩa"@en ;
+        dbp:battles  dbr:First_Indochina_War .
+
+dbr:Phan_Thi_Kim_Phuc
+        rdfs:label  "Phan Thi Kim Phuc"@en .
+
+dbr:Nguyễn_Thành_Phương
+        rdfs:label  "Nguyễn Thành Phương"@en .
+
+dbr:John-Baptiste_Nguyễn_Bửu_Đồng
+        rdfs:label  "John-Baptiste Nguyễn Bửu Đồng"@en .
+
+dbr:Ngo_Dinh_Diem  rdfs:label  "Ngo Dinh Diem"@en ;
+        dbp:battles  dbr:Vietnam_War .
+
+dbr:Le_Chi_Thuc  rdfs:label  "Le Chi Thuc"@en .
+
+dbr:Nguyễn_Văn_Lém  rdfs:label  "Nguyễn Văn Lém"@en .
+
+dbr:Thích_Nhất_Hạnh  rdfs:label  "Thích Nhất Hạnh"@en .
+
+dbr:Nguyễn_Cao_Kỳ  rdfs:label  "Nguyễn Cao Kỳ"@en ;
+        dbp:battles  "Buddhist Uprising"@en , ""@en , "Vietnam War"@en , "Battle of Saigon (1968)"@en , "September 1964 South Vietnamese coup attempt"@en , "February 1965 South Vietnamese coup attempt"@en , 1963 .
+
+dbr:Nguyen_Khac_Chinh
+        rdfs:label  "Nguyen Khac Chinh"@en .
+
+dbr:Hoàng_Văn_Hoan  rdfs:label  "Hoàng Văn Hoan"@en .
+
+dbr:Tran_Bach_Dang  rdfs:label  "Tran Bach Dang"@en .
+
+dbr:Nguyễn_Ngọc_Lễ  rdfs:label  "Nguyễn Ngọc Lễ"@en .
+
+dbr:Nguyễn_Thái  rdfs:label  "Nguyễn Thái"@en .
+
+dbr:Trần_Văn_Hương  rdfs:label  "Trần Văn Hương"@en .
+
+dbr:Phan_Khắc_Sửu  rdfs:label  "Phan Khắc Sửu"@en .
+
+dbr:Bùi_Tín  rdfs:label  "Bùi Tín"@en ;
+        dbp:battles  dbr:Vietnam_War .
+
+dbr:Ngô_Đình_Lệ_Thủy  rdfs:label  "Ngô Đình Lệ Thủy"@en .
+
+dbr:Nguyễn_Văn_Thuận  rdfs:label  "Nguyễn Văn Thuận"@en .
+
+dbr:Nguyễn_Hợp_Đoàn  rdfs:label  "Nguyễn Hợp Đoàn"@en ;
+        dbp:battles  dbr:Tet_Offensive , dbr:Battle_of_Kontum , dbr:Vietnam_War , dbr:Battle_of_Dak_To , dbr:Ben_Het_Battle , dbr:Battle_of_Dak_Seang .
+
+dbr:Vũ_Quốc_Uy  rdfs:label  "Vũ Quốc Uy"@en .
+
+dbr:Đinh_Đăng_Định  rdfs:label  "Đinh Đăng Định"@en .
+
+dbr:Le_Quan_Cong  rdfs:label  "Le Quan Cong"@en .
+
+dbr:Nguyễn_Đan_Quế  rdfs:label  "Nguyễn Đan Quế"@en .
+
+dbr:Bùi_Đình_Đạm  rdfs:label  "Bùi Đình Đạm"@en .
+
+dbr:Nguyễn_Lạc_Hoá  rdfs:label  "Nguyễn Lạc Hoá"@en .
+
+dbr:Nguyễn_Xuân_Ngãi  rdfs:label  "Nguyễn Xuân Ngãi"@en .
+
+dbr:Nguyễn_Thị_Định  rdfs:label  "Nguyễn Thị Định"@en .
+
+dbr:Đoàn_Công_Tính  rdfs:label  "Đoàn Công Tính"@en .
+
+dbr:Ngô_Thế_Linh  rdfs:label  "Ngô Thế Linh"@en .
+
+dbr:Trường_Chinh  rdfs:label  "Trường Chinh"@en .
+
+dbr:Hanoi_Hannah  rdfs:label  "Hanoi Hannah"@en .
+
+dbr:Dương_Văn_Minh  rdfs:label  "Dương Văn Minh"@en ;
+        dbp:battles  dbr:Operation_Rung_Sat , <http://dbpedia.org/resource/Battle_of_Saigon_(1955)> , dbr:1963_South_Vietnamese_coup .
+
+dbr:Lê_Văn_Viễn  rdfs:label  "Lê Văn Viễn"@en ;
+        dbp:battles  dbr:First_Indochina_War .
+
+dbr:Hoàng_Gia_Hợp  rdfs:label  "Hoàng Gia Hợp"@en .
+
+dbr:Ngô_Đình_Cẩn  rdfs:label  "Ngô Đình Cẩn"@en .
+
+dbr:Trần_Văn_Chương  rdfs:label  "Trần Văn Chương"@en .
+
+dbr:Phạm_Thanh_Tâm  rdfs:label  "Phạm Thanh Tâm"@en .
+
+dbr:Thái_Hà  rdfs:label  "Thái Hà"@en .
+
+dbr:Nguyễn_Ngọc_Thơ  rdfs:label  "Nguyễn Ngọc Thơ"@en .
+
+dbr:Nguyễn_Tiến_Hưng  rdfs:label  "Nguyễn Tiến Hưng"@en .
+
+dbr:Lê_Đức_Anh  rdfs:label  "Lê Đức Anh"@en .
+
+dbr:Nguyễn_Phước_Vĩnh_Lộc
+        rdfs:label  "Nguyễn Phước Vĩnh Lộc"@en .
+
+dbr:Nông_Thị_Xuân  rdfs:label  "Nông Thị Xuân"@en .
+
+dbr:Lê_Xuân_Nhuận  rdfs:label  "Lê Xuân Nhuận"@en .
+
+dbr:Ngô_Đình_Nhu  rdfs:label  "Ngô Đình Nhu"@en .
+
+dbr:Madame_Khánh  rdfs:label  "Madame Khánh"@en .
+
+dbr:Hồ_Trung_Dũng  rdfs:label  "Hồ Trung Dũng"@en .
+
+dbr:Tran_Dinh_Truong  rdfs:label  "Tran Dinh Truong"@en .
+
+dbr:Nguyen_Huu_Chanh  rdfs:label  "Nguyen Huu Chanh"@en .
+
+dbr:Phan_Huy_Quát  rdfs:label  "Phan Huy Quát"@en .
+
+dbr:Dương_Hiếu_Nghĩa  rdfs:label  "Dương Hiếu Nghĩa"@en .
+
+dbr:Nguyễn_Xuân_Vinh  rdfs:label  "Nguyễn Xuân Vinh"@en .
+
+dbr:Khương_Hữu_Long  rdfs:label  "Khương Hữu Long"@en .
+
+dbr:Thích_Quảng_Đức  rdfs:label  "Thích Quảng Đức"@en .
+
+dbr:Nguyen_Ngoc  rdfs:label  "Nguyen Ngoc"@en .
+
+dbr:Nguyễn_Văn_Vy  rdfs:label  "Nguyễn Văn Vy"@en .
+
+dbr:Đoàn_Văn_Toại  rdfs:label  "Đoàn Văn Toại"@en .
+
+dbr:Dương_Văn_Nhựt  rdfs:label  "Dương Văn Nhựt"@en .
+
+dbr:Le_Ly_Hayslip  rdfs:label  "Le Ly Hayslip"@en .
+
+dbr:Huỳnh_Tấn_Phát  rdfs:label  "Huỳnh Tấn Phát"@en .
+
+dbr:Madame_Nguyen_Van_Thieu
+        rdfs:label  "Madame Nguyen Van Thieu"@en .
+
+dbr:Khương_Hữu_Điểu  rdfs:label  "Khương Hữu Điểu"@en .
+
+dbr:Hoàng_Cơ_Minh  rdfs:label  "Hoàng Cơ Minh"@en .
+
+dbr:Đặng_Thùy_Trâm  rdfs:label  "Đặng Thùy Trâm"@en .
+
+dbr:Năm_Cam  rdfs:label  "Năm Cam"@en .
+
+dbr:Ung_Thị  rdfs:label  "Ung Thị"@en .
+
+dbr:Phạm_Văn_Đồng  rdfs:label  "Phạm Văn Đồng"@en .
+
+dbr:Tôn_Thất_Thiện  rdfs:label  "Tôn Thất Thiện"@en .
+
+dbr:Trần_Văn_Lắm  rdfs:label  "Trần Văn Lắm"@en .
+
+dbr:Xuân_Thủy  rdfs:label  "Xuân Thủy"@en .
+
+dbr:Ho_Chi_Minh  rdfs:label  "Ho Chi Minh"@en .
+
+dbr:Phạm_Văn_Phú  rdfs:label  "Phạm Văn Phú"@en .
+
+dbr:Nguyễn_Văn_Trỗi  rdfs:label  "Nguyễn Văn Trỗi"@en .
+
+dbr:Bảo_Đại  rdfs:label  "Bảo Đại"@en ;
+        dbp:father  dbr:Khải_Định ;
+        dbp:mother  dbr:Hoàng_Thị_Cúc .
+
+dbr:Hồ_Văn_Nhựt  rdfs:label  "Hồ Văn Nhựt"@en .
+
+dbr:Ngô_Đình_Luyện  rdfs:label  "Ngô Đình Luyện"@en .
+
+dbr:Lê_Văn_Hưng  rdfs:label  "Lê Văn Hưng"@en ;
+        dbp:battles  ""@en ;
+        dbp:battles  dbr:Vietnam_War .
+
+dbr:Lê_Đức_Thọ  rdfs:label  "Lê Đức Thọ"@en .
+
+dbr:Yen_Ngoc_Do  rdfs:label  "Yen Ngoc Do"@en .
+
+dbr:Trương_Như_Tảng  rdfs:label  "Trương Như Tảng"@en .
+
+dbr:Phạm_Công_Tắc  rdfs:label  "Phạm Công Tắc"@en .
+
+dbr:Lê_Duẩn  rdfs:label  "Lê Duẩn"@en .
+
+dbr:Ly_Tong  rdfs:label  "Ly Tong"@en ;
+        dbp:battles  dbr:Vietnam_War .

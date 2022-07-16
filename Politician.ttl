@@ -1,0 +1,286 @@
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+dbr:Võ_Nguyên_Giáp  rdfs:label  "Võ Nguyên Giáp"@en ;
+        dbp:birthPlace  "Lệ Thủy, Quảng Bình,"@en .
+
+<http://dbpedia.org/resource/Trần_Cảo_(rebel_leader)>
+        rdfs:label  "Trần Cảo (rebel leader)"@en .
+
+dbr:Nguyễn_Văn_Lực  rdfs:label  "Nguyễn Văn Lực"@en .
+
+dbr:Trần_Ngọc_Châu  rdfs:label  "Trần Ngọc Châu"@en .
+
+dbr:Nguyễn_Văn_Tâm  rdfs:label  "Nguyễn Văn Tâm"@en ;
+        dbp:birthPlace  dbr:Tây_Ninh_province , dbr:French_Cochinchina , dbr:French_Indochina .
+
+dbr:Phạm_Hùng  rdfs:label  "Phạm Hùng"@en .
+
+dbr:Thadeus_Nguyễn_Văn_Lý
+        rdfs:label      "Thadeus Nguyễn Văn Lý"@en ;
+        dbp:birthPlace  "Vĩnh Chấp, Vĩnh Linh, Quảng Trị, Vietnam"@en .
+
+dbr:Trần_Văn_Trà  rdfs:label  "Trần Văn Trà"@en ;
+        dbp:awards      dbr:Resolution_for_Victory_Order ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Quảng_Ngãi_province , dbr:Quảng_Ngãi .
+
+dbr:Ngo_Dinh_Diem  rdfs:label  "Ngo Dinh Diem"@en ;
+        dbp:birthPlace  dbr:Quảng_Bình_province , dbr:French_Indochina .
+
+dbr:Tôn_Đức_Thắng  rdfs:label  "Tôn Đức Thắng"@en ;
+        dbp:awards      30 ;
+        dbp:birthPlace  dbr:An_Giang_province , dbr:Long_Xuyên , dbr:French_Indochina .
+
+dbr:Nguyễn_Cao_Kỳ  rdfs:label  "Nguyễn Cao Kỳ"@en ;
+        dbp:birthPlace  dbr:Tonkin , <http://dbpedia.org/resource/Sơn_Tây,_Hanoi> , dbr:French_Indochina .
+
+dbr:Nguyễn_Phú_Trọng  rdfs:label  "Nguyễn Phú Trọng"@en ;
+        dbp:birthPlace  "Đông Hội, Đông Anh District, French Indochina"@en .
+
+dbr:Phan_Chu_Trinh  rdfs:label  "Phan Chu Trinh"@en ;
+        dbp:birthPlace  dbr:Tam_Kỳ , dbr:Quảng_Nam_province , dbr:Nguyễn_dynasty .
+
+dbr:Hoàng_Minh_Chính  rdfs:label  "Hoàng Minh Chính"@en .
+
+dbr:Trương_Đình_Dzu  rdfs:label  "Trương Đình Dzu"@en ;
+        dbp:birthPlace  "Bình Định Province, Vietnam"@en .
+
+dbr:Minh_Mạng  rdfs:label  "Minh Mạng"@en ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Ho_Chi_Minh_City .
+
+dbr:Nguyễn_Tấn_Dũng  rdfs:label  "Nguyễn Tấn Dũng"@en ;
+        dbp:birthPlace  "Cà Mau, State of Vietnam"@en .
+
+dbr:Trần_Văn_Hương  rdfs:label  "Trần Văn Hương"@en ;
+        dbp:birthPlace  "Long Châu commune, Châu Thành district, Vĩnh Long Province, French Cochinchina"@en .
+
+dbr:Phan_Khắc_Sửu  rdfs:label  "Phan Khắc Sửu"@en .
+
+dbr:Kiem_Do  rdfs:label  "Kiem Do"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Hanoi .
+
+dbr:Nguyễn_Hữu_Thọ  rdfs:label  "Nguyễn Hữu Thọ"@en ;
+        dbp:awards      dbr:Lenin_Peace_Prize ;
+        dbp:birthPlace  dbr:Bến_Lức_district , dbr:Long_An_province , dbr:French_Indochina .
+
+dbr:Trương_Tấn_Sang  rdfs:label  "Trương Tấn Sang"@en ;
+        dbp:birthPlace  dbr:Đức_Hòa_district , dbr:French_Indochina , dbr:Long_An_province .
+
+dbr:Đỗ_Mười  rdfs:label  "Đỗ Mười"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Hanoi , dbr:Thanh_Trì_district .
+
+dbr:Hàm_Nghi  rdfs:label  "Hàm Nghi"@en ;
+        dbp:birthPlace  dbr:Imperial_City_of_Huế , dbr:Nguyễn_dynasty .
+
+dbr:Nguyễn_Minh_Thuyết
+        rdfs:label  "Nguyễn Minh Thuyết"@en .
+
+dbr:Trần_Tử_Bình  rdfs:label  "Trần Tử Bình"@en .
+
+dbr:Nguyễn_Hợp_Đoàn  rdfs:label  "Nguyễn Hợp Đoàn"@en ;
+        dbp:awards      "*National Order of Vietnam, 4th Class \n*ARVN Joint Forces Order \n*Service Medal \n*Republic of Vietnam Campaign Medal \n*Gallantry Cross, 12 citations \n*Korea Medal of Honor \n*US Army  30px  Bronze Star with \"V\" Device \n*US Army 30px Silver Star"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Hải_Dương_province .
+
+dbr:Nhất_Linh  rdfs:label  "Nhất Linh"@en .
+
+dbr:Nguyễn_Quốc_Cường
+        rdfs:label  "Nguyễn Quốc Cường"@en .
+
+dbr:Nguyễn_Khánh  rdfs:label  "Nguyễn Khánh"@en ;
+        dbp:birthPlace  dbr:Trà_Vinh , dbr:French_Indochina .
+
+dbr:Phạm_Ngọc_Thảo  rdfs:label  "Phạm Ngọc Thảo"@en .
+
+dbr:Đồng_Khánh  rdfs:label  "Đồng Khánh"@en ;
+        dbp:birthPlace  dbr:Imperial_City_of_Huế , dbr:Nguyễn_dynasty .
+
+dbr:Hoang_Van_Chi  rdfs:label  "Hoang Van Chi"@en .
+
+dbr:Bùi_Tiến_Dũng  rdfs:label  "Bùi Tiến Dũng"@en .
+
+dbr:Trường_Chinh  rdfs:label  "Trường Chinh"@en ;
+        dbp:birthPlace  dbr:Mainland_Southeast_Asia , dbr:Xuân_Trường_district , dbr:Nam_Định_province .
+
+dbr:Dương_Văn_Minh  rdfs:label  "Dương Văn Minh"@en ;
+        dbp:birthPlace  "Mỹ Tho Province,  Cochinchina, French Indochina"@en , ""@en .
+
+dbr:Huỳnh_Văn_Cao  rdfs:label  "Huỳnh Văn Cao"@en ;
+        dbp:birthPlace  ""@en ;
+        dbp:birthPlace  dbr:French_Indochina , <http://dbpedia.org/resource/Annam_(French_protectorate)> , dbr:Huế .
+
+dbr:Thành_Thái  rdfs:label  "Thành Thái"@en ;
+        dbp:birthPlace  dbr:Nguyễn_dynasty , dbr:Imperial_City_of_Huế .
+
+dbr:Nguyễn_Văn_Thiệu  rdfs:label  "Nguyễn Văn Thiệu"@en ;
+        dbp:birthPlace  <http://dbpedia.org/resource/Phan_Rang–Tháp_Chàm> , dbr:Ninh_Thuận_province , dbr:French_Indochina .
+
+dbr:Ngô_Quyền  rdfs:label  "Ngô Quyền"@en ;
+        dbp:birthPlace  dbr:Đường_Lâm , dbr:Vietnam .
+
+dbr:Nguyễn_Ngọc_Thơ  rdfs:label  "Nguyễn Ngọc Thơ"@en ;
+        dbp:birthPlace  dbr:Long_Xuyên .
+
+dbr:Vũ_Văn_Mẫu  rdfs:label  "Vũ Văn Mẫu"@en ;
+        dbp:birthPlace  dbr:Hanoi , dbr:French_Indochina .
+
+dbr:Lê_Đức_Anh  rdfs:label  "Lê Đức Anh"@en ;
+        dbp:awards      30 ;
+        dbp:birthPlace  dbr:Names_of_Vietnam , dbr:Thừa_Thiên_Huế_province , dbr:French_Indochina .
+
+dbr:Gia_Long  rdfs:label  "Gia Long"@en ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Đàng_Trong , dbr:Phú_Xuân .
+
+dbr:Trần_Đức_Lương  rdfs:label  "Trần Đức Lương"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Quảng_Ngãi_province .
+
+dbr:Ngô_Đình_Nhu  rdfs:label  "Ngô Đình Nhu"@en ;
+        dbp:birthPlace  "Phú Cam, Annam, French Indochina"@en .
+
+dbr:Tạ_Thu_Thâu  rdfs:label  "Tạ Thu Thâu"@en ;
+        dbp:birthPlace  "Tân Bình, An Phú, French Cochinchina"@en .
+
+dbr:Đèo_Văn_Trị  rdfs:label  "Đèo Văn Trị"@en .
+
+dbr:Nguyễn_Bá_Cẩn  rdfs:label  "Nguyễn Bá Cẩn"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Cần_Thơ , dbr:French_Cochinchina .
+
+dbr:Hồ_Đắc_Điềm  rdfs:label  "Hồ Đắc Điềm"@en .
+
+dbr:Cường_Để  rdfs:label  "Cường Để"@en .
+
+dbr:Phan_Văn_Khải  rdfs:label  "Phan Văn Khải"@en ;
+        dbp:birthPlace  "Củ Chi District, Saigon , Cochinchina"@en .
+
+dbr:Đinh_Xuân_Quảng  rdfs:label  "Đinh Xuân Quảng"@en .
+
+dbr:Đinh_Công_Tráng  rdfs:label  "Đinh Công Tráng"@en .
+
+dbr:Nguyen_Van_Thinh  rdfs:label  "Nguyen Van Thinh"@en .
+
+dbr:Hoàng_Cao_Khải  rdfs:label  "Hoàng Cao Khải"@en .
+
+dbr:Nguyễn_Minh_Triết
+        rdfs:label      "Nguyễn Minh Triết"@en ;
+        dbp:birthPlace  dbr:Bến_Cát , dbr:Vietnam , dbr:Bình_Dương_province .
+
+dbr:Nguyễn_Văn_Xuân  rdfs:label  "Nguyễn Văn Xuân"@en ;
+        dbp:birthPlace  "Truong Tho, Gia Định Province, Annam"@en .
+
+dbr:Huỳnh_Tấn_Phát  rdfs:label  "Huỳnh Tấn Phát"@en .
+
+dbr:Ngô_Thị_Doãn_Thanh
+        rdfs:label      "Ngô Thị Doãn Thanh"@en ;
+        dbp:birthPlace  dbr:Hanoi , dbr:Vietnam .
+
+dbr:Ngô_Đình_Khả  rdfs:label  "Ngô Đình Khả"@en .
+
+dbr:Lý_Thánh_Tông  rdfs:label  "Lý Thánh Tông"@en ;
+        dbp:birthPlace  "Long Đức palace, Thăng Long"@en .
+
+dbr:Văn_Tiến_Dũng  rdfs:label  "Văn Tiến Dũng"@en ;
+        dbp:awards      30 ;
+        dbp:birthPlace  dbr:Từ_Liêm_district .
+
+dbr:Hiệp_Hòa  rdfs:label  "Hiệp Hòa"@en ;
+        dbp:birthPlace  dbr:Nguyễn_dynasty , dbr:Imperial_City_of_Huế .
+
+dbr:Deo_Nang_Toï  rdfs:label  "Deo Nang Toï"@en .
+
+dbr:Thiệu_Trị  rdfs:label  "Thiệu Trị"@en ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Imperial_City_of_Huế .
+
+dbr:Shi_Xie  rdfs:label  "Shi Xie"@en ;
+        dbp:birthPlace  dbr:Guangxi , dbr:Cangwu_County .
+
+dbr:Chu_Văn_An  rdfs:label  "Chu Văn An"@en .
+
+dbr:Nguyễn_Tiến_Trung
+        rdfs:label      "Nguyễn Tiến Trung"@en ;
+        dbp:birthPlace  dbr:Vietnam , dbr:Hưng_Hà_district .
+
+dbr:Phạm_Tuân  rdfs:label  "Phạm Tuân"@en ;
+        dbp:awards      dbr:Hero_of_the_Soviet_Union , <http://dbpedia.org/resource/Hero_of_the_People's_Armed_Forces> , dbr:Order_of_Ho_Chi_Minh , <http://dbpedia.org/resource/Hero_of_Labor_(Vietnam)> ;
+        dbp:birthPlace  dbr:Kiến_Xương , dbr:Thái_Bình , dbr:Vietnam .
+
+dbr:Phạm_Văn_Đồng  rdfs:label  "Phạm Văn Đồng"@en ;
+        dbp:awards      30 ;
+        dbp:birthPlace  "Đức Tân village, Mộ Đức, Quảng Ngãi Province, French Indochina"@en .
+
+dbr:Phan_Bội_Châu  rdfs:label  "Phan Bội Châu"@en ;
+        dbp:birthPlace  "Sa Nam, Nghệ An Province, Đại Nam"@en .
+
+dbr:Nguyễn_Bình  rdfs:label  "Nguyễn Bình"@en .
+
+dbr:Trần_Quang_Khải  rdfs:label  "Trần Quang Khải"@en ;
+        dbp:birthPlace  dbr:Đại_Việt , dbr:Hanoi .
+
+dbr:Thích_Quảng_Độ  rdfs:label  "Thích Quảng Độ"@en ;
+        dbp:birthPlace  "Thành Châu, Thái Bình Province, French Indochina"@en .
+
+dbr:Dục_Đức  rdfs:label  "Dục Đức"@en ;
+        dbp:birthPlace  dbr:Imperial_City_of_Huế , dbr:Nguyễn_dynasty .
+
+dbr:Võ_Văn_Kiệt  rdfs:label  "Võ Văn Kiệt"@en ;
+        dbp:birthPlace  dbr:Vũng_Liêm , dbr:Vĩnh_Long_province .
+
+dbr:Ho_Chi_Minh  rdfs:label  "Ho Chi Minh"@en ;
+        dbp:birthPlace  ", Nam Đàn, Nghệ An, Annam, French Indochina"@en .
+
+dbr:Leaders_of_South_Vietnam
+        rdfs:label  "Leaders of South Vietnam"@en .
+
+dbr:Kiến_Phúc  rdfs:label  "Kiến Phúc"@en ;
+        dbp:birthPlace  dbr:Nguyễn_dynasty , dbr:Imperial_City_of_Huế .
+
+dbr:Lê_Lương_Minh  rdfs:label  "Lê Lương Minh"@en ;
+        dbp:birthPlace  dbr:Thanh_Hóa_province , dbr:Vietnam .
+
+dbr:Khải_Định  rdfs:label  "Khải Định"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Imperial_City_of_Huế .
+
+dbr:Bảo_Đại  rdfs:label  "Bảo Đại"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Huế , dbr:Doan-Trang-Vien_Palace .
+
+dbr:Phan_Thanh_Giản  rdfs:label  "Phan Thanh Giản"@en ;
+        dbp:birthPlace  "Ba Thanh village, Biên Hòa"@en .
+
+dbr:Nguyễn_Thị_Thập  rdfs:label  "Nguyễn Thị Thập"@en .
+
+dbr:Hồ_Văn_Nhựt  rdfs:label  "Hồ Văn Nhựt"@en ;
+        dbp:birthPlace  "Tân Qui Đông, Sa Đéc, French Cochinchina"@en .
+
+dbr:Đèo_Văn_Long  rdfs:label  "Đèo Văn Long"@en .
+
+dbr:Nông_Đức_Mạnh  rdfs:label  "Nông Đức Mạnh"@en ;
+        dbp:birthPlace  dbr:Na_Rì_district , dbr:French_Indochina , dbr:Bắc_Kạn_province .
+
+dbr:Lê_Hồng_Anh  rdfs:label  "Lê Hồng Anh"@en .
+
+dbr:Lê_Đức_Thọ  rdfs:label  "Lê Đức Thọ"@en ;
+        dbp:birthPlace  dbr:Nam_Định_province , dbr:Nam_Trực_district , dbr:French_Indochina .
+
+dbr:Lê_Khả_Phiêu  rdfs:label  "Lê Khả Phiêu"@en ;
+        dbp:birthPlace  "Đông Khê commune, Đông Sơn District, French Indochina"@en .
+
+dbr:Phạm_Gia_Khiêm  rdfs:label  "Phạm Gia Khiêm"@en ;
+        dbp:birthPlace  "Phú Thọ, French Indochina"@en .
+
+dbr:Đồng_Sĩ_Nguyên  rdfs:label  "Đồng Sĩ Nguyên"@en ;
+        dbp:birthPlace  dbr:French_Indochina , <http://dbpedia.org/resource/Annam_(French_protectorate)> , dbr:Quảng_Trạch_district .
+
+dbr:Nguyễn_Thị_Thanh_Hòa
+        rdfs:label  "Nguyễn Thị Thanh Hòa"@en .
+
+dbr:Duy_Tân  rdfs:label  "Duy Tân"@en ;
+        dbp:birthPlace  dbr:French_Indochina , dbr:Imperial_City_of_Huế .
+
+dbr:Lê_Duẩn  rdfs:label  "Lê Duẩn"@en ;
+        dbp:birthPlace  dbr:Quảng_Trị_province , dbr:French_Indochina .
+
+dbr:Nguyễn_Thái_Học  rdfs:label  "Nguyễn Thái Học"@en .
+
+dbr:Nguyễn_Trãi  rdfs:label  "Nguyễn Trãi"@en .
+
+dbr:Nguyễn_Văn_Linh  rdfs:label  "Nguyễn Văn Linh"@en ;
+        dbp:birthPlace  dbr:French_Indochina , <http://dbpedia.org/resource/Tonkin_(French_protectorate)> , dbr:Hưng_Yên .

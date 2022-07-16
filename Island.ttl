@@ -1,0 +1,83 @@
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Phú_Quý  rdfs:label      "Phú Quý"@en ;
+        dbo:abstract         "Phú Quý is a small island located about 100 km south-east of the city of Phan Thiết, Vietnam. The island contains three communes, with a population of 20,698 people. The island is home to Phu Quy Lighthouse (Hải đăng Phú Quý) situated in the north-west of the island and a abandoned military bunker on the eastern coast. During the French Indochina era, the official name of the island was Poulo-Cécir-de-Mer(sometimes written as Pulau Cecir de Mer)."@en ;
+        dbo:populationTotal  "33"^^xsd:nonNegativeInteger .
+
+dbr:Bạch_Long_Vĩ_Island
+        rdfs:label           "Bạch Long Vĩ Island"@en ;
+        dbo:abstract         "Bạch Long Vĩ island is located in the Gulf of Tonkin, about halfway between Haiphong (Vietnam) and Hainan Island (China). The island is an offshore district of Haiphong city. Fishing comprises the majority of economic activity in the Gulf of Tonkin, and Bạch Long Vĩ is a major nursery and harvesting area for fish eggs. More than 50 species of commercial fish are abundant in the area (ADB 1999)."@en ;
+        dbo:areaTotal        3045000.0 ;
+        dbo:populationTotal  "912"^^xsd:nonNegativeInteger ;
+        dbp:location         dbr:Gulf_of_Tonkin .
+
+dbr:Ile_des_Cendres  rdfs:label  "Ile des Cendres"@en ;
+        dbo:abstract  "Ile des Cendres (Vietnamese: Hòn Tro, also known as Veteran) is a group of submarine volcanoes located off the southeast coast of Vietnam, 100 kilometres (62 mi) southeast of Phan Thiết. 1–1.2 kilometres (0.62–0.75 mi) wide and 60–70 metres (200–230 ft) high volcanoes are characteristic for this volcanic group. The volcanism relates to a still ongoing regimen of crustal extension. Argon-argon dating has yielded ages of 800,000 years to 0 on olivine tholeiite; a recent eruption was recorded in 1923 which formed land that was later removed again by the sea. A past eruption in 608 AD might be recorded in the chronicles of the Sui dynasty, while future eruptions could cause tsunamis."@en .
+
+dbr:Chàm_Islands  rdfs:label  "Chàm Islands"@en ;
+        dbo:abstract         "The Cham Islands (Vietnamese: Cù lao Chàm) constitute a group of 8 small islands of Quảng Nam, which form a part of the Cu Lao Cham Marine Park, a world Biosphere Reserve recognized by UNESCO, in the in Vietnam. The islands are approachable from Cửa Đại beach. The islands are also recognized as Vietnam's national scenic site. The islands grouped under the Cham Islands are: the Hòn Lao (Pearl), Hòn Dài (long), Hòn Mồ (tomb), Hòn Khô mẹ, Hòn Khô con (dry), Hòn Lá (leaf), Hòn Tai (ear) and Hòn Ông (east wind). The Cham Islands are under the administration of Tân Hiệp Commune of Hội An city in Quảng Nam Province. The occupation of the people of the islands is mainly fishing. Cu Lao Cham Islands' ancient landscape offers many sand beaches, forested hills and the sea. Facilities for camping, swimming and scuba diving are available. The corals and marine life are an attraction in these island waters."@en ;
+        dbo:areaTotal        15000000.0 ;
+        dbo:populationTotal  "3000"^^xsd:nonNegativeInteger .
+
+dbr:List_of_islands_of_Vietnam
+        rdfs:label    "List of islands of Vietnam"@en ;
+        dbo:abstract  "The following is a list of islands of Vietnam: From the north Vietnam to the south Vietnam."@en .
+
+dbr:Hon_Khoai  rdfs:label  "Hon Khoai"@en ;
+        dbo:abstract  "Hon Khoai (also called Ile Independence or Paulo Obi, Pulo Ubi) is a small archipelago located about 14 kilometers south from Ca Mau province, Vietnam. It is considered to be the southernmost point of Vietnam. The Hon Khoai islands consist of the main island of Hon Khoai, the smaller island Hon Sao and the islets of Hòn Đồi Mồi, Hòn Đá Lẻ and Hòn Tương. This tiny island group is home to several endemic species, including the Hon Khoai squirrel and the psychedelic rock gecko."@en .
+
+dbr:Cát_Bà_Island  rdfs:label  "Cát Bà Island"@en ;
+        dbo:abstract  "Cát Bà Island is the largest of the 367 islands spanning 260 km2 (100 sq mi) that comprise the Cat Ba Archipelago, which makes up the southeastern edge of Lan Ha Bay in Northern Vietnam. Cat Ba island has a surface area of 285 km2 (110 sq mi) and maintains the dramatic and rugged features of Ha Long Bay."@en .
+
+dbr:Cu_Lao_Cham_Marine_Park
+        rdfs:label     "Cu Lao Cham Marine Park"@en ;
+        dbo:abstract   "Cu Lao Cham Marine Park also known as Cham Islands Biosphere Reserve is part of the eight islets of the Chàm Islands, located in the South China Sea under the administration of Tân Hiệp Commune and Hội An town, in Quảng Nam Province, Vietnam. The terrestrial and coastal ecosystems of the islands have been recognized as a global Biosphere Reserve by UNESCO on 26 May 2009 under its 'Man and the Biosphere Programme' for its rich biodiversity value.The eco system also includes the ancient Hội An, which is 20 kilometres (12 mi) away from the islands, a UNESCO World Heritage Site. The Biosphere reserve area covers 5,000 hectares (12,000 acres) including 165 hectares (410 acres) of coral reefs and 500 hectares (1,200 acres) of underwater plant life. 947 aquatic species have also been identified in the biosphere."@en ;
+        dbo:areaTotal  50000000.0 .
+
+<http://dbpedia.org/resource/Cô_Tô_(island)>
+        rdfs:label    "Cô Tô (island)"@en ;
+        dbo:abstract  "Cô Tô is an island in Cô Tô District, Quảng Ninh Province, Vietnam."@en ;
+        dbp:location  dbr:Bai_Tu_Long_Bay .
+
+dbr:Phú_Quốc  rdfs:label     "Phú Quốc"@en ;
+        dbo:abstract         "Phú Quốc (Vietnamese: [fǔ kǔə̯k]) is the largest island in Vietnam. Phú Quốc and nearby islands, along with the distant Thổ Chu Islands, are part of Kiên Giang Province as Phú Quốc City, the island has a total area of 574 km2 (222 sq mi) and a permanent population of approximately 179,480 people. Located in the Gulf of Thailand, the island city of Phú Quốc includes the island proper and 21 smaller islets. Dương Đông ward is located on the west coast, and is also the administrative and largest town on the island. The other ward is An Thới on the southern tip of the island. Its primary industries are fishing, agriculture, and a fast-growing tourism sector. Phú Quốc has achieved fast economic growth due to its current tourism boom. Many infrastructure projects have been carried out, including several five-star hotels and resorts. Phú Quốc International Airport is the hub connecting Phú Quốc with mainland Vietnam and other international destinations. From March 2014, Vietnam allowed all foreign tourists to visit Phú Quốc visa-free for a period of up to 30 days. By 2017, the government of Vietnam planned to set up a Special Administrative Region which covered Phú Quốc Island and peripheral islets and upgrade it to a provincial city with special administration. The historical Phú Quốc Prison was based here; the prison was built by French colonialists to detain captured Viet Cong and North Vietnamese soldiers."@en ;
+        dbo:areaTotal        589270000.0 ;
+        dbo:populationTotal  "179480"^^xsd:nonNegativeInteger ;
+        dbp:location         "Duong Dong Airport, Phu Quoc"@en .
+
+dbr:Lý_Sơn_District  rdfs:label  "Lý Sơn District"@en ;
+        dbo:abstract         "Lý Sơn, previously known as Cù Lao Ré, is an insular district of Quảng Ngãi Province, lying off the South Central Coast of Vietnam."@en ;
+        dbo:areaTotal        10000000.0 ;
+        dbo:populationTotal  "19695"^^xsd:nonNegativeInteger .
+
+dbr:Cù_Lao_Ré_volcanic_islands
+        rdfs:label    "Cù Lao Ré volcanic islands"@en ;
+        dbo:abstract  "Cù-Lao Ré is a volcanic field northeast of Quảng Ngãi, Vietnam. The field consists of 13 volcanic cones; four subaerial and nine submarine. Three of the subaerial cones formed the Cù-Lao Ré Island, while the fourth one formed the Cù-Lao Bai Island. The islands form the Lý Sơn District of Quảng Ngãi Province."@en ;
+        dbp:location  "Northeast of Quang Ngai, Vietnam"@en .
+
+dbr:Côn_Sơn_Island  rdfs:label  "Côn Sơn Island"@en ;
+        dbo:abstract  "Côn Sơn, also known as Côn Lôn is the largest island of the Côn Đảo archipelago, off the coast of southern Vietnam."@en ;
+        dbp:location  "Côn Sơn Island"@en .
+
+dbr:Long_Sơn_Island  rdfs:label  "Long Sơn Island"@en ;
+        dbo:abstract  "Long Sơn Island is an island off the coast of Vietnam near Vũng Tàu. The Nha Lon Long Son, the home of Ong Tran religion, is situated on the island. During the Vietnam War, the Viet Cong (C41 Company Chau Duc District Company) used the island as a rest and training centre. In November 1966, Operations Yass and Hayman were undertaken by 3rd Squadron SAS and the 5th Battalion, Royal Australian Regiment upon the island. It has taken countless attacks before being taken over by the 3rd Squadron SAS. For the month of May 1970, under the command of 1st Australian Task Force, Whisky Company from Royal New Zealand Infantry Regiment were deployed to Long Son Island to destroy Viet Cong locations on the island while protecting the engineers from 17th Construction Squadron who were building water sources for the village of Xa Long Son."@en .
+
+dbr:Thổ_Chu_Island  rdfs:label  "Thổ Chu Island"@en ;
+        dbo:abstract   "Thổ Chu Island (Vietnamese: đảo Thổ Chu or đảo Thổ Châu) is the largest island of Thổ Chu Islands in the Gulf of Thailand. Here lies the administrative center of Thổ Châu Commune, Phú Quốc District, Kiên Giang Province, Vietnam. In the West, the island is also known as Poulo Panjang or Pulo Panjang."@en ;
+        dbo:areaTotal  13950000.0 ;
+        dbp:location   dbr:Gulf_of_Thailand .
+
+dbr:Cồn_Cỏ_District  rdfs:label  "Cồn Cỏ District"@en ;
+        dbo:abstract         "Cồn Cỏ (also known as Tiger Island) is a rural district of Quảng Trị Province in the North Central Coast region of Vietnam. It is an island and is located 27 km to the east of Mũi Lay. Con Co Island has an area of 2.3 km2 (0.89 sq mi), the isometric form of hills, the highest peak of 63m. This is a young volcanic island, composed of basalt and basalt tuff stones of Neogene – Quaternary age. Before it became its own district, the island was in the commune of Vĩnh Quang, in Vĩnh Linh District of Quảng Trị Province. The island became a district through Decree 174/2004 NĐ-CP of October 1, 2004. Province officials held a ceremony to create the district on April 18, 2005. As of 2003 the district had a population of 400. The district covers an area of 2 km², making one of the smallest districts in Vietnam. The district capital lies at ."@en ;
+        dbo:areaTotal        2000000.0 ;
+        dbo:populationTotal  "400"^^xsd:nonNegativeInteger .
+
+dbr:Tuần_Châu  rdfs:label    "Tuần Châu"@en ;
+        dbo:abstract         "Tuần Châu is a schist island on the southwest side of Hạ Long City in Vietnam."@en ;
+        dbo:areaTotal        2300000.0 ;
+        dbo:populationTotal  "1500"^^xsd:nonNegativeInteger ;
+        dbp:location         dbr:Hạ_Long_Bay .

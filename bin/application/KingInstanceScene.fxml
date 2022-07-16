@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="360.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.KingSceneController">
+   <children>
+
+      <Label layoutX="47.0" layoutY="44.0" prefHeight="65.0" prefWidth="517.0" text="Searching King..." AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="40.0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+
+      <Label layoutX="40.0" layoutY="105.0" text="Check the data you want to search ">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+
+      <CheckBox fx:id="birthNameCheckBox" layoutX="40.0" layoutY="135.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="110.0" text="Birth Name" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+
+      <CheckBox fx:id="birthDateCheckBox" layoutX="40.0" layoutY="165.0" mnemonicParsing="false" text="Birth Date" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+      
+      <CheckBox fx:id="deathDateCheckBox" layoutX="40.0" layoutY="193.0" mnemonicParsing="false" text="Death Date" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+      
+      <CheckBox fx:id="birthPlaceCheckBox" layoutX="40.0" layoutY="221.0" mnemonicParsing="false" text="Birth Place" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+      
+      <CheckBox fx:id="parentsCheckBox" layoutX="40.0" layoutY="249.0" mnemonicParsing="false" text="Parents" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+
+      <CheckBox fx:id="spouseCheckBox" layoutX="40.0" layoutY="277.0" mnemonicParsing="false" text="Spouse" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+
+      <CheckBox fx:id="childrenCheckBox" layoutX="40.0" layoutY="305.0" mnemonicParsing="false" text="Children" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+
+      <CheckBox fx:id="eraDateCheckBox" layoutX="40.0" layoutY="333.0" mnemonicParsing="false" text="Era Date" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+
+      <CheckBox fx:id="eraNameCheckBox" layoutX="40.0" layoutY="361.0" mnemonicParsing="false" text="Era Name" AnchorPane.leftAnchor="40.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </CheckBox>
+
+      <Button fx:id="continueButton" layoutX="226.0" layoutY="389.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#pressContinueButton" prefHeight="31.0" prefWidth="81.0" text="Continue" AnchorPane.bottomAnchor="40.0" AnchorPane.rightAnchor="80.0" />
+
+      <Button fx:id="backButton" layoutX="82.0" layoutY="389.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#pressBackButton" prefHeight="31.0" prefWidth="81.0" text="Back" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="80.0" />
+
+   </children>
+</AnchorPane>

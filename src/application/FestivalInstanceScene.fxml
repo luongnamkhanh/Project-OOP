@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="360.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.FestivalSceneController">
+   <children>
+
+      <Label layoutX="47.0" layoutY="44.0" prefHeight="65.0" prefWidth="517.0" text="Searching Festival..." AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="40.0">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+
+      <Label layoutX="40.0" layoutY="105.0" text="Sorry Festival has no additional information for choosing.">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+
+      <Label layoutX="40.0" layoutY="135.0" text="Please press Continue to Search with Default Mode.">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+
+      <Button fx:id="continueButton" layoutX="226.0" layoutY="289.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#pressContinueButton" prefHeight="31.0" prefWidth="81.0" text="Continue" AnchorPane.bottomAnchor="40.0" AnchorPane.rightAnchor="80.0" />
+
+      <Button fx:id="backButton" layoutX="82.0" layoutY="289.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#pressBackButton" prefHeight="31.0" prefWidth="81.0" text="Back" AnchorPane.bottomAnchor="40.0" AnchorPane.leftAnchor="80.0" />
+
+   </children>
+</AnchorPane>

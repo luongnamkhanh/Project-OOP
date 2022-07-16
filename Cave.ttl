@@ -1,0 +1,82 @@
+@prefix dbd:  <http://dbpedia.org/datatype/> .
+@prefix dbo:  <http://dbpedia.org/ontology/> .
+@prefix dbp:  <http://dbpedia.org/property/> .
+@prefix dbr:  <http://dbpedia.org/resource/> .
+@prefix geo:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dbpedia.org/resource/Tam_Cốc_–_Bích_Động>
+        rdfs:label    "Tam Cốc – Bích Động"@en ;
+        dbo:abstract  "Tam Cốc-Bích Động is a popular tourist destination in north Vietnam and part of the Tràng An Scenic Landscape Complex UNESCO World Heritage site. It is located in Ninh Binh province, near the village of Tam Cốc. The closest city is Ninh Binh. It consists of two distinct attractions: Tam Cốc, a flooded cave karst system; and Bích Động, a series of mountain pagodas."@en ;
+        dbp:location  dbr:Ninh_Bình , dbr:Vietnam .
+
+<http://dbpedia.org/resource/Phong_Nha_–_Kẻ_Bàng_National_Park>
+        rdfs:label    "Phong Nha – Kẻ Bàng National Park"@en ;
+        dbo:abstract  "Phong Nha-Kẻ Bàng (Vietnamese: Vườn quốc gia Phong Nha-Kẻ Bàng) is a national park and UNESCO World Heritage Site in the Bố Trạch and Minh Hóa districts of central Quảng Bình Province in the North Central Coast region of Vietnam, about 500 km south of Hanoi. The park borders the Hin Namno National Park in Khammouane Province, Laos to the west and 42 km east of the South China Sea from its borderline point. Phong Nha-Kẻ Bàng National Park is in a limestone zone of 2,000 km2 in Vietnamese territory and borders another limestone zone of 2,000 km2 of Hin Namno in Laotian territory. The core zone of this national park covers 857.54 km2 and a buffer zone of 1,954 km2. The park was created to protect one of the world's two largest karst regions with 300 caves and grottoes and also protects the ecosystem of limestone forest of the Annamite Range region in North Central Coast of Vietnam. Phong Nha-Kẻ Bàng is noted for its cave and grotto systems as it is composed of 300 caves and grottos. A 2009 survey brought the total discovered length of the cave system to about 126 km, with many areas still not well explored. Sơn Đoòng Cave, which was discovered in the 2009 survey by British and Vietnamese explorers, is considered the largest cave in the world. Even before this discovery, Phong Nha held several world cave records, including the longest river as well as the largest combined caverns and passageways. The park derives its name from Phong Nha Cave, containing many rock formations, and Kẻ Bàng forest. The plateau on which the park rests is one of the finest and most distinctive examples of a complex karst landform in Southeast Asia. This national park was listed in UNESCO's World Heritage Sites in 2003 for its geological values as defined in its criteria viii. In April 2009, the world's largest cave, was re-discovered by a team of British cave explorers of the British Caving Association led by a local farmer named Ho Khanh."@en ;
+        dbp:location  dbr:North_Central_Coast , dbr:Quảng_Bình_province ;
+        geo:lat       "17.537221908569335938"^^xsd:float ;
+        geo:long      "106.15139007568359375"^^xsd:float .
+
+dbr:Pác_Bó  rdfs:label  "Pác Bó"@en ;
+        dbo:abstract  "Pác Bó is a small village in Cao Bằng province, northern Vietnam, 3 km from the Chinese border. \"Pác Bó\" in Tày language means “source mouth”. Near this village is a cave, Hang Cốc Bó (today often called Hang Pác Bó) in which Hồ Chí Minh lived for seven weeks, during February and March 1941, after returning from 30 years of exile. Consequently, it is now a tourist site."@en ;
+        geo:lat       "22.978000640869140625"^^xsd:float ;
+        geo:long      "106.0540008544921875"^^xsd:float .
+
+dbr:Con_Moong_Cave  rdfs:label  "Con Moong Cave"@en ;
+        dbo:abstract   "The Con Moong cave (Vietnamese: Hang Con Moong, \"beast\" cave) is located in the Cúc Phương National Park, just south of Mọ village, in the Thanh Hóa Province, northern Vietnam. The Department of Culture has issued a certificate that declares Con Moong prehistoric site and its surroundings as National Relics and is managed by the Cúc Phương National Park administration, along with a refuge for rare animals. Among these locations, the archaeological site of Con Moong cave is of central importance for the study of the Mesolithic Hoabinhian culture. In April and May 1976, Vietnamese archaeologists excavated the site."@en ;
+        dbp:depth      "8.5 m"@en ;
+        dbp:discovery  1974 ;
+        dbp:length     "2400.0"^^dbd:second ;
+        dbp:location   "Thành Yên commune, Thạch Thành District, Thanh Hóa Province"@en ;
+        geo:lat        "20.287500381469726562"^^xsd:float ;
+        geo:long       "105.60500335693359375"^^xsd:float .
+
+dbr:Thẩm_Khuyên_Cave  rdfs:label  "Thẩm Khuyên Cave"@en ;
+        dbo:abstract  "The Tham Khuyen is a palaeontological formation located in Vietnam. It dates to the Jurassic period. The cave is located in Lang Son province, about 125 kilometers northeast of Hanoi."@en ;
+        geo:lat       "21.9235992431640625"^^xsd:float ;
+        geo:long      "106.41390228271484375"^^xsd:float .
+
+dbr:List_of_caves_in_Vietnam
+        rdfs:label    "List of caves in Vietnam"@en ;
+        dbo:abstract  "This is an incomplete List of caves in Vietnam."@en .
+
+dbr:Tú_Làn_Caves_System
+        rdfs:label    "Tú Làn Caves System"@en ;
+        dbo:abstract  "Tu Lan Cave System is located on Rao Nan (Nan river) in Tân Hóa Village, Minh Hoa District, Quang Binh, Vietnam. It is about 70 km North-West of Phong Nha - Ke Bang National Park."@en .
+
+dbr:Hang_Én  rdfs:label  "Hang Én"@en ;
+        dbo:abstract   "Hang Én ('swift cave' in Vietnamese, named for the birds that nest in it), occasionally referred to as Én cave in English, is a cave in Phong Nha-Ke Bang National Park, a UNESCO World Heritage Site. Én is the third largest cave in the world, after Hang Sơn Đoòng in the same national park, and Deer Cave in Malaysia. The cave has its own jungle, waters, beach, and climate. There are three known entrances to Hang Én. The cave, which goes through a mountain for 1,645 metres (5,397 ft), has a maximum height around 100 metres (330 ft), and a maximum width of approximately 170 metres (560 ft) is a feeder to Hang Sơn Đoòng, 2 kilometres (1.2 mi) away. The only ways to reach the cave are by helicopter, or an approximately four-hour jungle trek from the nearest road. Both Én and Sơn Đoòng were featured in footage aired on the television program Good Morning America in May 2015, dubbed one of \"the top 10 cultural events of the year\" in Vietnam by Viet Nam News. Hang Én was selected by the US-based Warner Bros. as a shooting location for the 2015 film Pan."@en ;
+        dbp:discovery  "Known for centuries"@en ;
+        dbp:length     "96000.0"^^dbd:second ;
+        dbp:location   dbr:Quảng_Bình_province , dbr:Vietnam ;
+        geo:lat        "17.456943511962890625"^^xsd:float ;
+        geo:long       "106.28749847412109375"^^xsd:float .
+
+dbr:Hang_Sơn_Đoòng  rdfs:label  "Hang Sơn Đoòng"@en ;
+        dbo:abstract   "Sơn Đoòng cave (Vietnamese: hang Sơn Đoòng, IPA: [haːŋ˧ ʂəːn˧ ɗɔ̤ŋ˨˩]), in Phong Nha-Kẻ Bàng National Park, Bố Trạch District, Quảng Bình Province, Vietnam, is one of the world's largest natural caves. Located near the Laos–Vietnam border, Hang Sơn Đoòng has an internal, fast-flowing subterranean river and the largest cross-section of any cave, worldwide, as of 2009, believed to be twice that of the next largest passage. It is the largest known cave passage in the world by volume. Its name, Hang Sơn Đoòng, is variously translated from Vietnamese as 'cave of the mountain river' or 'cave of mountains behind Đoòng [village]'. As a solutional cave, it was formed in soluble limestone and is believed to be between 2 and 5 million years old."@en ;
+        dbp:depth      "max."@en ;
+        dbp:discovery  1991 ;
+        dbp:length     "approx."@en ;
+        dbp:location   dbr:Vietnam , dbr:Quảng_Bình_province ;
+        geo:lat        "17.456943511962890625"^^xsd:float ;
+        geo:long       "106.28749847412109375"^^xsd:float .
+
+dbr:Thiên_Đường_Cave  rdfs:label  "Thiên Đường Cave"@en ;
+        dbo:abstract   "Thiên Đường Cave (Paradise Cave) is a cave in Phong Nha-Kẻ Bàng National Park, UNESCO's World Heritage Site, 60 km northwest of Đồng Hới city.Thiên Đường Cave is located on an elevation of 200 meters above the sea level, near the west branch of Ho Chi Minh Highway, in Son Trach Commune, Bố Trạch District, Quảng Bình Province, Vietnam. The cave was discovered by a local man in 2005 and the first 5 km of this cave was explored by explorers from British Cave Research Association in 2005, the whole 31 km was explored and publicly announced by the British cave explorers. This cave is 31 km long, longer than Phong Nha Cave which had been considered the longest cave in this national park. The height can reach to 72 m and 150 m wide. The limestone formation is also more spectacular than that of Phong Nha Cave. The British cave explorers were impressed by the beautiful and spectacular stalactites and stalagmites inside this cave and they named it Thiên Đường Cave (Paradise Cave).In 2012, a new species of troglobiontic scorpion species, Vietbocap thienduongensis was found in here."@en ;
+        dbp:depth      "Unknown"@en ;
+        dbp:discovery  2005 ;
+        dbp:length     "31.0"^^dbd:kilometre ;
+        dbp:location   "Vietnam"@en ;
+        geo:lat        "17.51959228515625"^^xsd:float ;
+        geo:long       "106.22283935546875"^^xsd:float .
+
+dbr:Lang_Trang  rdfs:label  "Lang Trang"@en ;
+        dbo:abstract  "The Lang Trang is a cave formation located in Vietnam. Palaeontological remains found in the cave date from the Pleistocene period."@en .
+
+dbr:Phong_Nha_Cave  rdfs:label  "Phong Nha Cave"@en ;
+        dbo:abstract   "Phong Nha Cave is a cave in Phong Nha-Kẻ Bàng National Park, a UNESCO World Heritage Site in Quảng Bình Province, Vietnam. It is 7,729 metres long and contains 14 grottoes, as well as a 13,969 metre underground river. While scientists have surveyed 44.5 kilometres of passages, tourists are only allowed to explore the first 1500 metres."@en ;
+        dbp:depth      "Unknown"@en ;
+        dbp:discovery  "unknown"@en ;
+        dbp:length     7729 ;
+        dbp:location   "Vietnam"@en .
